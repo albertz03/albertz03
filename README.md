@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Valdez</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🌱 I’m currently learning **FrontEnd-Mision | InnovaccionVirtual**
+- 🌱 I’m currently learning **BackEnd-Mision | InnovaccionVirtual**
 
 
 <p align="left">
