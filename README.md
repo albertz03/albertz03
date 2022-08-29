@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/qY9G5cv/2-modified.png" alt="2-modified" border="0" width="300" height="300"/></p>
+<p align="center"><img src="https://i.ibb.co/QYYCsXS/2-modified-1.png" alt="2-modified" border="0" width="300" height="300"/></p>
 
 <h1 align="center">Alberto Valdez <a href="https://twitter.com/albertz03_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertz03" height="30" width="40" /> </h1>
 <h3 align="center"> He/him 🙂 | Software Developer 💻 | Mexican <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/flag-mexico_1f1f2-1f1fd.png" height="30" width="30"/> </h3>
