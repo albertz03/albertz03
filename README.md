@@ -12,7 +12,7 @@
   } 
 ```
   
-- 🌱 I’m currently learning **BackEnd-Mision | InnovaccionVirtual**
+
 
 
 <p align="left">
